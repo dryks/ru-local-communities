@@ -46,6 +46,7 @@
       * [Moscow (Clojure (Script)) Meetup (www.meetup.com)](https://www.meetup.com/Moscow-Clojure-Script-Meetup/): Встречи и митапы для всех, кто интересуется разработкой на Clojure и ClojureScript
       * [Московский клуб программистов](https://www.meetup.com/progmsk/): Неформальные встречи и разговоры обо всём понемногу.
       * [ElixirLangMoscow](http://elixir-lang.moscow/): Московское Elixir сообщество: проводим встречи, общаемся, едим пиццу.
+      * [PHP2ALL (vk)](https://vk.com/php2all): Сообщество PHP программистов, бесплатные видеокурсы,материалы для обучения,митапы.
   * Нижний Новгород
       * [IT52 - Нижегородское IT-сообщество (vk)](https://vk.com/it52info): IT и около в Нижнем Новгороде: конференции, митапы, хакатоны, встречи и, конечно, афтепати.
       * [rannts (site)](http://rannts.ru): Нижегородские питонисты.
